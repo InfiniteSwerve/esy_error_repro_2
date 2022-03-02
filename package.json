@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@opam/core": "*",
+    "@opam/core_unix": "v0.14.0",
+    "@opam/dune": "*",
+    "@opam/ocaml-lsp-server": "*"
+  }
+}
