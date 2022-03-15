@@ -1,0 +1,630 @@
+# Command environment
+
+#
+# Built-in
+#
+export ESY__ROOT_PACKAGE_CONFIG_PATH="/home/thetis/Code/ocaml/test/package.json"
+export XDG_SEAT_PATH='/org/freedesktop/DisplayManager/Seat0'
+export _P9K_TTY='/dev/pts/1'
+export USER='thetis'
+export GIT_ASKPASS='/opt/visual-studio-code/resources/app/extensions/git/dist/askpass.sh'
+export LESS='-R'
+export MOTD_SHOWN='pam'
+export PATH='/usr/lib/node_modules/esy/3/i/esy-71a059e4/bin:/home/thetis/.opam/for_tezos/bin:/home/thetis/.opam/for_tezos/bin:/home/thetis/.cargo/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin'
+export OCAMLPATH='/usr/lib/node_modules/esy/3/i/esy-71a059e4/lib:'
+export MAIL='/var/spool/mail/thetis'
+export XDG_SEAT='seat0'
+export NO_AT_BRIDGE='1'
+export CAML_LD_LIBRARY_PATH='/usr/lib/node_modules/esy/3/i/esy-71a059e4/stublibs:/usr/lib/node_modules/esy/3/i/esy-71a059e4/lib/stublibs:/home/thetis/.opam/for_tezos/lib/stublibs:/home/thetis/.opam/for_tezos/lib/ocaml/stublibs:/home/thetis/.opam/for_tezos/lib/ocaml'
+export TERMINATOR_DBUS_PATH='/net/tenshu/Terminator2'
+export PKG_CONFIG_PATH='/home/thetis/.opam/for_tezos/lib/pkgconfig:/home/thetis/.opam/for_tezos/lib/pkgconfig:'
+export LOGNAME='thetis'
+export XDG_GREETER_DATA_DIR='/var/lib/lightdm-data/thetis'
+export SHLVL='3'
+export MAN_PATH='/usr/lib/node_modules/esy/3/i/esy-71a059e4/man:'
+export XDG_SESSION_DESKTOP='xmonad'
+export XDG_SESSION_CLASS='user'
+export NVM_CD_FLAGS='-q'
+export PAGER='less'
+export VSCODE_GIT_ASKPASS_MAIN='/opt/visual-studio-code/resources/app/extensions/git/dist/askpass-main.js'
+export TERMINATOR_DBUS_NAME='net.tenshu.Terminator21a9d5db22c73a993ff0b42f64b396873'
+export OLDPWD='/home/thetis/Code/ocaml/core_bench_clean'
+export _='/usr/lib/node_modules/esy/3/i/esy-71a059e4/bin/esy'
+export OPAM_SWITCH_PREFIX='/home/thetis/.opam/for_tezos'
+export GDMSESSION='xmonad'
+export OPAMNOENVNOTICE='true'
+export LANG='en_US.UTF-8'
+export P9K_SSH='0'
+export HOME='/home/thetis'
+export XDG_RUNTIME_DIR='/run/user/1000'
+export OCAML_TOPLEVEL_PATH='/home/thetis/.opam/for_tezos/lib/toplevel'
+export LS_COLORS='rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'
+export GTK_MODULES='canberra-gtk-module'
+export GDK_BACKEND='x11'
+export COLORTERM='truecolor'
+export XDG_SESSION_PATH='/org/freedesktop/DisplayManager/Session0'
+export XDG_SESSION_TYPE='x11'
+export XAUTHORITY='/home/thetis/.Xauthority'
+export DBUS_SESSION_BUS_ADDRESS='unix:path=/run/user/1000/bus'
+export VSCODE_GIT_ASKPASS_NODE='/opt/visual-studio-code/code'
+export ORIGINAL_XDG_CURRENT_DESKTOP='undefined'
+export CHROME_DESKTOP='code-url-handler.desktop'
+export ZSH='/home/thetis/.oh-my-zsh'
+export XDG_SESSION_ID='2'
+export DESKTOP_SESSION='xmonad'
+export VTE_VERSION='6602'
+export TERM_PROGRAM_VERSION='1.65.2'
+export TERMINATOR_UUID='urn:uuid:e21d5c4a-41e7-4e54-ba5e-ad3ae0c815b6'
+export SHELL='/usr/bin/zsh'
+export XDG_VTNR='7'
+export MANPATH=':/home/thetis/.opam/for_tezos/man:/home/thetis/.opam/for_tezos/man'
+export LSCOLORS='Gxfxcxdxbxegedabagacad'
+export PWD='/home/thetis/Code/ocaml/test'
+export P9K_TTY='old'
+export NVM_DIR='/home/thetis/.nvm'
+export TERM_PROGRAM='vscode'
+export VSCODE_GIT_IPC_HANDLE='/run/user/1000/vscode-git-9d40091eb1.sock'
+export DISPLAY=':0'
+export TERM='xterm-256color'
+export APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL='true'
+export VSCODE_GIT_ASKPASS_EXTRA_ARGS='--ms-enable-electron-run-as-node'
+export SHELL='/usr/bin/zsh'
+export PATH="/home/thetis/Code/ocaml/test/_esy/default/bin:$PATH"
+export cur__etc="/home/thetis/Code/ocaml/test/_esy/default/store/i/test-ffc2408b/etc"
+export cur__share="/home/thetis/Code/ocaml/test/_esy/default/store/i/test-ffc2408b/share"
+export cur__toplevel="/home/thetis/Code/ocaml/test/_esy/default/store/i/test-ffc2408b/toplevel"
+export cur__stublibs="/home/thetis/Code/ocaml/test/_esy/default/store/i/test-ffc2408b/stublibs"
+export cur__doc="/home/thetis/Code/ocaml/test/_esy/default/store/i/test-ffc2408b/doc"
+export cur__man="/home/thetis/Code/ocaml/test/_esy/default/store/i/test-ffc2408b/man"
+export cur__lib="/home/thetis/Code/ocaml/test/_esy/default/store/i/test-ffc2408b/lib"
+export cur__sbin="/home/thetis/Code/ocaml/test/_esy/default/store/i/test-ffc2408b/sbin"
+export cur__bin="/home/thetis/Code/ocaml/test/_esy/default/store/i/test-ffc2408b/bin"
+export cur__install="/home/thetis/Code/ocaml/test/_esy/default/store/i/test-ffc2408b"
+export cur__target_dir="/home/thetis/Code/ocaml/test/_esy/default/store/b/test-ffc2408b"
+export cur__original_root="/home/thetis/Code/ocaml/test"
+export cur__root="/home/thetis/Code/ocaml/test"
+export cur__dev="true"
+export cur__version="link-dev:./package.json"
+export cur__name="test"
+
+#
+# @opam/octavius@opam:1.2.2@2205cc65
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__octavius-opam__c__1.2.2-ca9c3a71/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__octavius-opam__c__1.2.2-ca9c3a71/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__octavius-opam__c__1.2.2-ca9c3a71/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__octavius-opam__c__1.2.2-ca9c3a71/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__octavius-opam__c__1.2.2-ca9c3a71/bin:$PATH"
+
+#
+# @opam/ocamlfind@opam:1.9.3@781b30f3
+#
+export OCAML_TOPLEVEL_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ocamlfind-opam__c__1.9.3-de14ddc9/toplevel"
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ocamlfind-opam__c__1.9.3-de14ddc9/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ocamlfind-opam__c__1.9.3-de14ddc9/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ocamlfind-opam__c__1.9.3-de14ddc9/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ocamlfind-opam__c__1.9.3-de14ddc9/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ocamlfind-opam__c__1.9.3-de14ddc9/bin:$PATH"
+
+#
+# @opam/csexp@opam:1.5.1@8a8fb3a7
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__csexp-opam__c__1.5.1-fe992406/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__csexp-opam__c__1.5.1-fe992406/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__csexp-opam__c__1.5.1-fe992406/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__csexp-opam__c__1.5.1-fe992406/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__csexp-opam__c__1.5.1-fe992406/bin:$PATH"
+
+#
+# @opam/ppx_js_style@opam:v0.14.1@03f2d62f
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__js__style-opam__c__v0.14.1-dee039f5/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__js__style-opam__c__v0.14.1-dee039f5/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__js__style-opam__c__v0.14.1-dee039f5/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__js__style-opam__c__v0.14.1-dee039f5/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__js__style-opam__c__v0.14.1-dee039f5/bin:$PATH"
+
+#
+# @opam/ppx_enumerate@opam:v0.14.0@2be34197
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__enumerate-opam__c__v0.14.0-67d8a0ba/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__enumerate-opam__c__v0.14.0-67d8a0ba/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__enumerate-opam__c__v0.14.0-67d8a0ba/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__enumerate-opam__c__v0.14.0-67d8a0ba/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__enumerate-opam__c__v0.14.0-67d8a0ba/bin:$PATH"
+
+#
+# @opam/ppx_cold@opam:v0.14.0@91b05a20
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__cold-opam__c__v0.14.0-71a4837b/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__cold-opam__c__v0.14.0-71a4837b/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__cold-opam__c__v0.14.0-71a4837b/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__cold-opam__c__v0.14.0-71a4837b/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__cold-opam__c__v0.14.0-71a4837b/bin:$PATH"
+
+#
+# @opam/stdlib-shims@opam:0.3.0@72c7bc98
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__stdlib_shims-opam__c__0.3.0-2c4bfa84/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__stdlib_shims-opam__c__0.3.0-2c4bfa84/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__stdlib_shims-opam__c__0.3.0-2c4bfa84/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__stdlib_shims-opam__c__0.3.0-2c4bfa84/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__stdlib_shims-opam__c__0.3.0-2c4bfa84/bin:$PATH"
+
+#
+# @opam/ppx_derivers@opam:1.2.1@e2cbad12
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__derivers-opam__c__1.2.1-b2924fab/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__derivers-opam__c__1.2.1-b2924fab/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__derivers-opam__c__1.2.1-b2924fab/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__derivers-opam__c__1.2.1-b2924fab/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__derivers-opam__c__1.2.1-b2924fab/bin:$PATH"
+
+#
+# @opam/ocaml-compiler-libs@opam:v0.12.4@41979882
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ocaml_compiler_libs-opam__c__v0.12.4-df7126b2/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ocaml_compiler_libs-opam__c__v0.12.4-df7126b2/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ocaml_compiler_libs-opam__c__v0.12.4-df7126b2/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ocaml_compiler_libs-opam__c__v0.12.4-df7126b2/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ocaml_compiler_libs-opam__c__v0.12.4-df7126b2/bin:$PATH"
+
+#
+# @opam/parsexp@opam:v0.14.2@1d15b9d2
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__parsexp-opam__c__v0.14.2-643ca296/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__parsexp-opam__c__v0.14.2-643ca296/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__parsexp-opam__c__v0.14.2-643ca296/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__parsexp-opam__c__v0.14.2-643ca296/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__parsexp-opam__c__v0.14.2-643ca296/bin:$PATH"
+
+#
+# @opam/num@opam:1.4@15ff926d
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__num-opam__c__1.4-358e8b63/lib/num:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__num-opam__c__1.4-358e8b63/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__num-opam__c__1.4-358e8b63/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__num-opam__c__1.4-358e8b63/bin:$PATH"
+
+#
+# @opam/dune-configurator@opam:3.0.3@d0cefa08
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__dune_configurator-opam__c__3.0.3-008a6cdd/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__dune_configurator-opam__c__3.0.3-008a6cdd/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__dune_configurator-opam__c__3.0.3-008a6cdd/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__dune_configurator-opam__c__3.0.3-008a6cdd/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__dune_configurator-opam__c__3.0.3-008a6cdd/bin:$PATH"
+
+#
+# @opam/variantslib@opam:v0.14.0@88d5444d
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__variantslib-opam__c__v0.14.0-6c224ac9/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__variantslib-opam__c__v0.14.0-6c224ac9/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__variantslib-opam__c__v0.14.0-6c224ac9/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__variantslib-opam__c__v0.14.0-6c224ac9/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__variantslib-opam__c__v0.14.0-6c224ac9/bin:$PATH"
+
+#
+# @opam/typerep@opam:v0.14.0@80173b67
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__typerep-opam__c__v0.14.0-759c0c51/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__typerep-opam__c__v0.14.0-759c0c51/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__typerep-opam__c__v0.14.0-759c0c51/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__typerep-opam__c__v0.14.0-759c0c51/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__typerep-opam__c__v0.14.0-759c0c51/bin:$PATH"
+
+#
+# @opam/time_now@opam:v0.14.0@ecc73110
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__time__now-opam__c__v0.14.0-9da5ee91/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__time__now-opam__c__v0.14.0-9da5ee91/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__time__now-opam__c__v0.14.0-9da5ee91/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__time__now-opam__c__v0.14.0-9da5ee91/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__time__now-opam__c__v0.14.0-9da5ee91/bin:$PATH"
+
+#
+# @opam/stdio@opam:v0.14.0@a5affb43
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__stdio-opam__c__v0.14.0-37ba42ad/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__stdio-opam__c__v0.14.0-37ba42ad/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__stdio-opam__c__v0.14.0-37ba42ad/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__stdio-opam__c__v0.14.0-37ba42ad/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__stdio-opam__c__v0.14.0-37ba42ad/bin:$PATH"
+
+#
+# @opam/splittable_random@opam:v0.14.0@d46e48fb
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__splittable__random-opam__c__v0.14.0-068d327b/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__splittable__random-opam__c__v0.14.0-068d327b/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__splittable__random-opam__c__v0.14.0-068d327b/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__splittable__random-opam__c__v0.14.0-068d327b/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__splittable__random-opam__c__v0.14.0-068d327b/bin:$PATH"
+
+#
+# @opam/ppx_hash@opam:v0.14.0@b0e91890
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__hash-opam__c__v0.14.0-8c63f25e/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__hash-opam__c__v0.14.0-8c63f25e/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__hash-opam__c__v0.14.0-8c63f25e/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__hash-opam__c__v0.14.0-8c63f25e/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__hash-opam__c__v0.14.0-8c63f25e/bin:$PATH"
+
+#
+# @opam/jane-street-headers@opam:v0.14.0@b38e12bf
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__jane_street_headers-opam__c__v0.14.0-3b3de8a8/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__jane_street_headers-opam__c__v0.14.0-3b3de8a8/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__jane_street_headers-opam__c__v0.14.0-3b3de8a8/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__jane_street_headers-opam__c__v0.14.0-3b3de8a8/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__jane_street_headers-opam__c__v0.14.0-3b3de8a8/bin:$PATH"
+
+#
+# @opam/bin_prot@opam:v0.14.0@fc2dc1da
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__bin__prot-opam__c__v0.14.0-f8bd3f19/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__bin__prot-opam__c__v0.14.0-f8bd3f19/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__bin__prot-opam__c__v0.14.0-f8bd3f19/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__bin__prot-opam__c__v0.14.0-f8bd3f19/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__bin__prot-opam__c__v0.14.0-f8bd3f19/bin:$PATH"
+
+#
+# @opam/base_bigstring@opam:v0.14.0@aa572736
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base__bigstring-opam__c__v0.14.0-574f991a/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base__bigstring-opam__c__v0.14.0-574f991a/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base__bigstring-opam__c__v0.14.0-574f991a/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base__bigstring-opam__c__v0.14.0-574f991a/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base__bigstring-opam__c__v0.14.0-574f991a/bin:$PATH"
+
+#
+# @opam/seq@opam:base@d8d7de1d
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__seq-opam__c__base-a1364f88/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__seq-opam__c__base-a1364f88/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__seq-opam__c__base-a1364f88/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__seq-opam__c__base-a1364f88/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__seq-opam__c__base-a1364f88/bin:$PATH"
+
+#
+# @opam/jbuilder@opam:1.0+beta20.2@0ca87099
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__jbuilder-opam__c__1.0+beta20.2-2ac175de/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__jbuilder-opam__c__1.0+beta20.2-2ac175de/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__jbuilder-opam__c__1.0+beta20.2-2ac175de/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__jbuilder-opam__c__1.0+beta20.2-2ac175de/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__jbuilder-opam__c__1.0+beta20.2-2ac175de/bin:$PATH"
+
+#
+# @opam/sexplib0@github:EduardoRFS/sexplib0:sexplib0.opam#6785e5fe565bdbcdbc00d861654b4f468d7a552c@d41d8cd9
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__sexplib0-2948e64b/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__sexplib0-2948e64b/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__sexplib0-2948e64b/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__sexplib0-2948e64b/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__sexplib0-2948e64b/bin:$PATH"
+
+#
+# @opam/ppx_variants_conv@opam:v0.14.2@ac87de2b
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__variants__conv-opam__c__v0.14.2-7b06e096/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__variants__conv-opam__c__v0.14.2-7b06e096/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__variants__conv-opam__c__v0.14.2-7b06e096/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__variants__conv-opam__c__v0.14.2-7b06e096/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__variants__conv-opam__c__v0.14.2-7b06e096/bin:$PATH"
+
+#
+# @opam/ppx_typerep_conv@opam:v0.14.2@64307812
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__typerep__conv-opam__c__v0.14.2-4ece9316/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__typerep__conv-opam__c__v0.14.2-4ece9316/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__typerep__conv-opam__c__v0.14.2-4ece9316/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__typerep__conv-opam__c__v0.14.2-4ece9316/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__typerep__conv-opam__c__v0.14.2-4ece9316/bin:$PATH"
+
+#
+# @opam/ppx_string@opam:v0.14.1@072b819c
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__string-opam__c__v0.14.1-f6676a0d/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__string-opam__c__v0.14.1-f6676a0d/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__string-opam__c__v0.14.1-f6676a0d/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__string-opam__c__v0.14.1-f6676a0d/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__string-opam__c__v0.14.1-f6676a0d/bin:$PATH"
+
+#
+# @opam/ppx_stable@opam:v0.14.1@4d59da9e
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__stable-opam__c__v0.14.1-cf18f5f3/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__stable-opam__c__v0.14.1-cf18f5f3/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__stable-opam__c__v0.14.1-cf18f5f3/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__stable-opam__c__v0.14.1-cf18f5f3/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__stable-opam__c__v0.14.1-cf18f5f3/bin:$PATH"
+
+#
+# @opam/ppx_sexp_value@opam:v0.14.0@54df3117
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__sexp__value-opam__c__v0.14.0-65010ccc/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__sexp__value-opam__c__v0.14.0-65010ccc/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__sexp__value-opam__c__v0.14.0-65010ccc/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__sexp__value-opam__c__v0.14.0-65010ccc/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__sexp__value-opam__c__v0.14.0-65010ccc/bin:$PATH"
+
+#
+# @opam/ppx_sexp_message@opam:v0.14.0@d9b1b1f6
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__sexp__message-opam__c__v0.14.0-0a56a1f5/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__sexp__message-opam__c__v0.14.0-0a56a1f5/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__sexp__message-opam__c__v0.14.0-0a56a1f5/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__sexp__message-opam__c__v0.14.0-0a56a1f5/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__sexp__message-opam__c__v0.14.0-0a56a1f5/bin:$PATH"
+
+#
+# @opam/ppx_pipebang@opam:v0.14.0@c2d405d9
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__pipebang-opam__c__v0.14.0-d9b37def/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__pipebang-opam__c__v0.14.0-d9b37def/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__pipebang-opam__c__v0.14.0-d9b37def/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__pipebang-opam__c__v0.14.0-d9b37def/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__pipebang-opam__c__v0.14.0-d9b37def/bin:$PATH"
+
+#
+# @opam/ppx_optional@opam:v0.14.0@b2b4daab
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__optional-opam__c__v0.14.0-b13d61cf/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__optional-opam__c__v0.14.0-b13d61cf/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__optional-opam__c__v0.14.0-b13d61cf/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__optional-opam__c__v0.14.0-b13d61cf/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__optional-opam__c__v0.14.0-b13d61cf/bin:$PATH"
+
+#
+# @opam/ppx_optcomp@opam:v0.14.3@08009524
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__optcomp-opam__c__v0.14.3-d41e9256/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__optcomp-opam__c__v0.14.3-d41e9256/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__optcomp-opam__c__v0.14.3-d41e9256/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__optcomp-opam__c__v0.14.3-d41e9256/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__optcomp-opam__c__v0.14.3-d41e9256/bin:$PATH"
+
+#
+# @opam/ppx_module_timer@opam:v0.14.0@fde5fada
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__module__timer-opam__c__v0.14.0-5024388c/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__module__timer-opam__c__v0.14.0-5024388c/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__module__timer-opam__c__v0.14.0-5024388c/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__module__timer-opam__c__v0.14.0-5024388c/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__module__timer-opam__c__v0.14.0-5024388c/bin:$PATH"
+
+#
+# @opam/ppx_inline_test@opam:v0.14.1@8b68b6f7
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__inline__test-opam__c__v0.14.1-448dcec3/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__inline__test-opam__c__v0.14.1-448dcec3/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__inline__test-opam__c__v0.14.1-448dcec3/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__inline__test-opam__c__v0.14.1-448dcec3/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__inline__test-opam__c__v0.14.1-448dcec3/bin:$PATH"
+
+#
+# @opam/ppx_here@opam:v0.14.0@c05577d4
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__here-opam__c__v0.14.0-4162241d/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__here-opam__c__v0.14.0-4162241d/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__here-opam__c__v0.14.0-4162241d/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__here-opam__c__v0.14.0-4162241d/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__here-opam__c__v0.14.0-4162241d/bin:$PATH"
+
+#
+# @opam/ppx_fixed_literal@opam:v0.14.0@a07fb03e
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__fixed__literal-opam__c__v0.14.0-8fb16131/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__fixed__literal-opam__c__v0.14.0-8fb16131/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__fixed__literal-opam__c__v0.14.0-8fb16131/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__fixed__literal-opam__c__v0.14.0-8fb16131/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__fixed__literal-opam__c__v0.14.0-8fb16131/bin:$PATH"
+
+#
+# @opam/ppx_expect@opam:v0.14.2@b6279606
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__expect-opam__c__v0.14.2-3c68fa31/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__expect-opam__c__v0.14.2-3c68fa31/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__expect-opam__c__v0.14.2-3c68fa31/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__expect-opam__c__v0.14.2-3c68fa31/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__expect-opam__c__v0.14.2-3c68fa31/bin:$PATH"
+
+#
+# @opam/ppx_custom_printf@opam:v0.14.0@5204bc11
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__custom__printf-opam__c__v0.14.0-a2119d70/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__custom__printf-opam__c__v0.14.0-a2119d70/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__custom__printf-opam__c__v0.14.0-a2119d70/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__custom__printf-opam__c__v0.14.0-a2119d70/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__custom__printf-opam__c__v0.14.0-a2119d70/bin:$PATH"
+
+#
+# @opam/ppx_bin_prot@opam:v0.14.0@4a83bcd2
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__bin__prot-opam__c__v0.14.0-3414d216/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__bin__prot-opam__c__v0.14.0-3414d216/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__bin__prot-opam__c__v0.14.0-3414d216/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__bin__prot-opam__c__v0.14.0-3414d216/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__bin__prot-opam__c__v0.14.0-3414d216/bin:$PATH"
+
+#
+# @opam/ppx_bench@opam:v0.14.1@c493f008
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__bench-opam__c__v0.14.1-b5c7fae7/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__bench-opam__c__v0.14.1-b5c7fae7/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__bench-opam__c__v0.14.1-b5c7fae7/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__bench-opam__c__v0.14.1-b5c7fae7/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__bench-opam__c__v0.14.1-b5c7fae7/bin:$PATH"
+
+#
+# @opam/ppx_base@opam:v0.14.0@4ee93edd
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__base-opam__c__v0.14.0-af2fe06a/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__base-opam__c__v0.14.0-af2fe06a/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__base-opam__c__v0.14.0-af2fe06a/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__base-opam__c__v0.14.0-af2fe06a/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__base-opam__c__v0.14.0-af2fe06a/bin:$PATH"
+
+#
+# @opam/ppx_assert@opam:v0.14.0@9bf80750
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__assert-opam__c__v0.14.0-3a70bc4a/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__assert-opam__c__v0.14.0-3a70bc4a/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__assert-opam__c__v0.14.0-3a70bc4a/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__assert-opam__c__v0.14.0-3a70bc4a/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__assert-opam__c__v0.14.0-3a70bc4a/bin:$PATH"
+
+#
+# @opam/base_quickcheck@opam:v0.14.1@0933a13f
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base__quickcheck-opam__c__v0.14.1-b7fdb3b2/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base__quickcheck-opam__c__v0.14.1-b7fdb3b2/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base__quickcheck-opam__c__v0.14.1-b7fdb3b2/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base__quickcheck-opam__c__v0.14.1-b7fdb3b2/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base__quickcheck-opam__c__v0.14.1-b7fdb3b2/bin:$PATH"
+
+#
+# @opam/fieldslib@opam:v0.14.0@5bb0d853
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__fieldslib-opam__c__v0.14.0-1292ac32/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__fieldslib-opam__c__v0.14.0-1292ac32/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__fieldslib-opam__c__v0.14.0-1292ac32/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__fieldslib-opam__c__v0.14.0-1292ac32/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__fieldslib-opam__c__v0.14.0-1292ac32/bin:$PATH"
+
+#
+# @opam/ppxlib@github:patricoferris/ppxlib:ppxlib.opam#91c39e958fca1dabf16f64dc7699ace7752f0014@d41d8cd9
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppxlib-a1d15f7b/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppxlib-a1d15f7b/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppxlib-a1d15f7b/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppxlib-a1d15f7b/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppxlib-a1d15f7b/bin:$PATH"
+
+#
+# @opam/base@github:EduardoRFS/base:base.opam#6ea52922e153b3a3aae6ffbf2379c6f442671ebd@d41d8cd9
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base-c3910b64/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base-c3910b64/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base-c3910b64/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base-c3910b64/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base-c3910b64/bin:$PATH"
+
+#
+# @opam/base-unix@opam:base@87d0b2eb
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base_unix-opam__c__base-dc4b97fb/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base_unix-opam__c__base-dc4b97fb/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base_unix-opam__c__base-dc4b97fb/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base_unix-opam__c__base-dc4b97fb/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base_unix-opam__c__base-dc4b97fb/bin:$PATH"
+
+#
+# @opam/timezone@opam:v0.14.0@cdeeb816
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__timezone-opam__c__v0.14.0-5bf9727e/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__timezone-opam__c__v0.14.0-5bf9727e/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__timezone-opam__c__v0.14.0-5bf9727e/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__timezone-opam__c__v0.14.0-5bf9727e/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__timezone-opam__c__v0.14.0-5bf9727e/bin:$PATH"
+
+#
+# @opam/spawn@opam:v0.15.0@4a27a4cb
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__spawn-opam__c__v0.15.0-ae1d73f7/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__spawn-opam__c__v0.15.0-ae1d73f7/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__spawn-opam__c__v0.15.0-ae1d73f7/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__spawn-opam__c__v0.15.0-ae1d73f7/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__spawn-opam__c__v0.15.0-ae1d73f7/bin:$PATH"
+
+#
+# @opam/sexplib@opam:v0.14.0@61ef150a
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__sexplib-opam__c__v0.14.0-645e117e/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__sexplib-opam__c__v0.14.0-645e117e/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__sexplib-opam__c__v0.14.0-645e117e/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__sexplib-opam__c__v0.14.0-645e117e/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__sexplib-opam__c__v0.14.0-645e117e/bin:$PATH"
+
+#
+# @opam/jst-config@opam:v0.14.1@95aef818
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__jst_config-opam__c__v0.14.1-79781676/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__jst_config-opam__c__v0.14.1-79781676/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__jst_config-opam__c__v0.14.1-79781676/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__jst_config-opam__c__v0.14.1-79781676/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__jst_config-opam__c__v0.14.1-79781676/bin:$PATH"
+
+#
+# @opam/core_kernel@opam:v0.14.0@90ad44bb
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__core__kernel-opam__c__v0.14.0-64263647/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__core__kernel-opam__c__v0.14.0-64263647/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__core__kernel-opam__c__v0.14.0-64263647/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__core__kernel-opam__c__v0.14.0-64263647/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__core__kernel-opam__c__v0.14.0-64263647/bin:$PATH"
+
+#
+# @opam/base-threads@opam:base@36803084
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base_threads-opam__c__base-f93e1d7d/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base_threads-opam__c__base-f93e1d7d/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base_threads-opam__c__base-f93e1d7d/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base_threads-opam__c__base-f93e1d7d/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base_threads-opam__c__base-f93e1d7d/bin:$PATH"
+
+#
+# @esy-ocaml/substs@0.0.1@d41d8cd9
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/esy_ocaml__s__substs-0.0.1-ed6217b4/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/esy_ocaml__s__substs-0.0.1-ed6217b4/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/esy_ocaml__s__substs-0.0.1-ed6217b4/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/esy_ocaml__s__substs-0.0.1-ed6217b4/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/esy_ocaml__s__substs-0.0.1-ed6217b4/bin:$PATH"
+
+#
+# ocaml@github:esy-ocaml/ocaml#65e3f82dcd867d2b1f27c84597b3c25259b09396@d41d8cd9
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/ocaml-eb9a1085/lib/ocaml/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/ocaml-eb9a1085/lib/ocaml:$CAML_LD_LIBRARY_PATH"
+export OCAMLLIB="/home/thetis/.esy/3__________________________________________________________________/i/ocaml-eb9a1085/lib/ocaml"
+export OCAML_TOPLEVEL_PATH="/home/thetis/.esy/3__________________________________________________________________/i/ocaml-eb9a1085/lib/ocaml"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/ocaml-eb9a1085/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/ocaml-eb9a1085/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/ocaml-eb9a1085/bin:$PATH"
+
+#
+# @opam/textutils@opam:v0.14.0@6b4ffaac
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__textutils-opam__c__v0.14.0-5dcf0474/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__textutils-opam__c__v0.14.0-5dcf0474/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__textutils-opam__c__v0.14.0-5dcf0474/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__textutils-opam__c__v0.14.0-5dcf0474/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__textutils-opam__c__v0.14.0-5dcf0474/bin:$PATH"
+
+#
+# @opam/re@opam:1.8.0@6f1ac8c8
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__re-opam__c__1.8.0-d91b78a8/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__re-opam__c__1.8.0-d91b78a8/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__re-opam__c__1.8.0-d91b78a8/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__re-opam__c__1.8.0-d91b78a8/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__re-opam__c__1.8.0-d91b78a8/bin:$PATH"
+
+#
+# @opam/ppx_sexp_conv@github:janestreet/ppx_sexp_conv:ppx_sexp_conv.opam#3d413303de3f76fecb19dc51c85b81c33c5c872a@471065ba
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__sexp__conv-20500229/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__sexp__conv-20500229/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__sexp__conv-20500229/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__sexp__conv-20500229/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__sexp__conv-20500229/bin:$PATH"
+
+#
+# @opam/ppx_let@opam:v0.14.0@69852938
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__let-opam__c__v0.14.0-818fa484/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__let-opam__c__v0.14.0-818fa484/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__let-opam__c__v0.14.0-818fa484/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__let-opam__c__v0.14.0-818fa484/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__let-opam__c__v0.14.0-818fa484/bin:$PATH"
+
+#
+# @opam/ppx_jane@opam:v0.14.0@29edba24
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__jane-opam__c__v0.14.0-f86fdbba/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__jane-opam__c__v0.14.0-f86fdbba/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__jane-opam__c__v0.14.0-f86fdbba/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__jane-opam__c__v0.14.0-f86fdbba/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__jane-opam__c__v0.14.0-f86fdbba/bin:$PATH"
+
+#
+# @opam/ppx_fields_conv@opam:v0.14.2@d9b8c107
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__fields__conv-opam__c__v0.14.2-aeb0475c/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__fields__conv-opam__c__v0.14.2-aeb0475c/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__fields__conv-opam__c__v0.14.2-aeb0475c/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__fields__conv-opam__c__v0.14.2-aeb0475c/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__fields__conv-opam__c__v0.14.2-aeb0475c/bin:$PATH"
+
+#
+# @opam/ppx_compare@opam:v0.14.0@fbd22977
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__compare-opam__c__v0.14.0-e07ccf6f/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__compare-opam__c__v0.14.0-e07ccf6f/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__compare-opam__c__v0.14.0-e07ccf6f/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__compare-opam__c__v0.14.0-e07ccf6f/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__ppx__compare-opam__c__v0.14.0-e07ccf6f/bin:$PATH"
+
+#
+# @opam/dune@opam:3.0.3@2d9f4d6b
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__dune-opam__c__3.0.3-17e61cea/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__dune-opam__c__3.0.3-17e61cea/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__dune-opam__c__3.0.3-17e61cea/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__dune-opam__c__3.0.3-17e61cea/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__dune-opam__c__3.0.3-17e61cea/bin:$PATH"
+
+#
+# @opam/core_unix@opam:v0.14.0@c7f971b8
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__core__unix-opam__c__v0.14.0-ba5bd3dd/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__core__unix-opam__c__v0.14.0-ba5bd3dd/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__core__unix-opam__c__v0.14.0-ba5bd3dd/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__core__unix-opam__c__v0.14.0-ba5bd3dd/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__core__unix-opam__c__v0.14.0-ba5bd3dd/bin:$PATH"
+
+#
+# @opam/core@opam:v0.14.1@1a5c27ac
+#
+export CAML_LD_LIBRARY_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__core-opam__c__v0.14.1-9c121538/stublibs:/home/thetis/.esy/3__________________________________________________________________/i/opam__s__core-opam__c__v0.14.1-9c121538/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__core-opam__c__v0.14.1-9c121538/lib:$OCAMLPATH"
+export MAN_PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__core-opam__c__v0.14.1-9c121538/man:$MAN_PATH"
+export PATH="/home/thetis/.esy/3__________________________________________________________________/i/opam__s__core-opam__c__v0.14.1-9c121538/bin:$PATH"
+
+#
+# Built-in
+#
+export OCAMLFIND_LDCONF="ignore"
+export OCAMLFIND_DESTDIR="/home/thetis/Code/ocaml/test/_esy/default/store/i/test-ffc2408b/lib"
+export DUNE_BUILD_DIR="/home/thetis/Code/ocaml/test/_esy/default/store/b/test-ffc2408b"
+export DUNE_STORE_ORIG_SOURCE_DIR="true"
+export SHELL="env -i /bin/bash --norc --noprofile"
+export PATH="$PATH:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+export SHELL="/usr/bin/zsh"

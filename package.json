@@ -1,8 +1,102 @@
 {
   "dependencies": {
+    "ocaml": "*",
     "@opam/core": "*",
-    "@opam/core_unix": "v0.14.0",
+    "@opam/core_unix": "*",
+    "@opam/ppx_compare": "*",
+    "@opam/ppx_fields_conv": "*",
+    "@opam/ppx_jane": "*",
+    "@opam/ppx_let": "*",
+    "@opam/ppx_sexp_conv": "*",
+    "@opam/textutils": "*",
     "@opam/dune": "*",
-    "@opam/ocaml-lsp-server": "*"
+    "@opam/re": "1.8.0"
+  },
+  "resolutions": {
+    "ocaml": "esy-ocaml/ocaml#65e3f82dcd867d2b1f27c84597b3c25259b09396",
+    "@opam/sexplib0": "EduardoRFS/sexplib0:sexplib0.opam#6785e5fe565bdbcdbc00d861654b4f468d7a552c",
+    "@opam/base": "EduardoRFS/base:base.opam#6ea52922e153b3a3aae6ffbf2379c6f442671ebd",
+    "@opam/ppxlib": "patricoferris/ppxlib:ppxlib.opam#91c39e958fca1dabf16f64dc7699ace7752f0014",
+    "@opam/ppx_hash": {
+      "version": "opam:v0.14.0",
+      "override": {
+        "dependencies": {
+          "@opam/ppx_sexp_conv": "*"
+        }
+      }
+    },
+    "@opam/ppx_sexp_conv": {
+      "source": "janestreet/ppx_sexp_conv:ppx_sexp_conv.opam#3d413303de3f76fecb19dc51c85b81c33c5c872a",
+      "override": {
+        "dependencies": {
+          "@opam/ppx_sexp_conv": "*"
+        }
+      }
+    },
+    "@opam/ppx_sexp_message": {
+      "version": "opam:v0.14.0",
+      "override": {
+        "dependencies": {
+          "@opam/ppx_sexp_conv": "*"
+        }
+      }
+    },
+    "@opam/ppx_jane": {
+      "version": "opam:v0.14.0",
+      "override": {
+        "dependencies": {
+          "@opam/ppx_sexp_message": "*",
+          "@opam/ppx_sexp_conv": "*"
+        }
+      }
+    },
+    "@opam/ppx_assert": {
+      "version": "opam:v0.14.0",
+      "override": {
+        "dependencies": {
+          "@opam/ppx_sexp_conv": "*"
+        }
+      }
+    },
+    "@opam/ppx_custom_printf": {
+      "version": "opam:v0.14.0",
+      "override": {
+        "dependencies": {
+          "@opam/ppx_sexp_conv": "*"
+        }
+      }
+    },
+    "@opam/ppx_base": {
+      "version": "opam:v0.14.0",
+      "override": {
+        "dependencies": {
+          "@opam/ppx_sexp_conv": "*"
+        }
+      }
+    },
+    "@opam/ppx_sexp_value": {
+      "version": "opam:v0.14.0",
+      "override": {
+        "dependencies": {
+          "@opam/ppx_sexp_conv": "*"
+        }
+      }
+    },
+    "@opam/core_kernel": {
+      "version": "opam:v0.14.0",
+      "override": {
+        "dependencies": {
+          "@opam/ppx_sexp_conv": "*"
+        }
+      }
+    },
+    "@opam/bin_prot": {
+      "version": "opam:v0.14.0",
+      "override": {
+        "dependencies": {
+          "@opam/ppx_sexp_conv": "*"
+        }
+      }
+    }
   }
 }

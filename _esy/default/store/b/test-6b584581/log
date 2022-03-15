@@ -1,0 +1,152 @@
+# /home/thetis/.esy/3__________________________________________________________________/i/opam__s__dune-opam__c__3.0.3-17e61cea/bin/dune build
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root: /home/thetis/Code/ocaml/test
+# Auto-detected concurrency: 8
+$ /home/thetis/.esy/3__________________________________________________________________/i/ocaml-eb9a1085/bin/ocamlc.opt -config > /tmp/dune_45bbc9_output
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; for_host = None
+#  ; fdo_target_exe = None
+#  ; build_dir = "default"
+#  ; toplevel_path =
+#      Some
+#        External
+#          "/home/thetis/.esy/3__________________________________________________________________/i/ocaml-eb9a1085/lib/ocaml"
+#  ; ocaml_bin =
+#      External
+#        "/home/thetis/.esy/3__________________________________________________________________/i/ocaml-eb9a1085/bin"
+#  ; ocaml =
+#      Ok
+#        External
+#          "/home/thetis/.esy/3__________________________________________________________________/i/ocaml-eb9a1085/bin/ocaml"
+#  ; ocamlc =
+#      External
+#        "/home/thetis/.esy/3__________________________________________________________________/i/ocaml-eb9a1085/bin/ocamlc.opt"
+#  ; ocamlopt =
+#      Ok
+#        External
+#          "/home/thetis/.esy/3__________________________________________________________________/i/ocaml-eb9a1085/bin/ocamlopt.opt"
+#  ; ocamldep =
+#      Ok
+#        External
+#          "/home/thetis/.esy/3__________________________________________________________________/i/ocaml-eb9a1085/bin/ocamldep.opt"
+#  ; ocamlmklib =
+#      Ok
+#        External
+#          "/home/thetis/.esy/3__________________________________________________________________/i/ocaml-eb9a1085/bin/ocamlmklib.opt"
+#  ; env =
+#      map
+#        { "DUNE_OCAML_HARDCODED" :
+#            "/home/thetis/.esy/3__________________________________________________________________/i/ocaml-eb9a1085/lib"
+#        ; "DUNE_OCAML_STDLIB" :
+#            "/home/thetis/.esy/3__________________________________________________________________/i/ocaml-eb9a1085/lib/ocaml"
+#        ; "DUNE_SOURCEROOT" : "/home/thetis/Code/ocaml/test"
+#        ; "INSIDE_DUNE" :
+#            "/home/thetis/Code/ocaml/test/_esy/default/store/b/test-6b584581/default"
+#        ; "MANPATH" :
+#            "/home/thetis/Code/ocaml/test//home/thetis/Code/ocaml/test/_esy/default/store/b/test-6b584581/install/default/bin"
+#        ; "OCAMLFIND_IGNORE_DUPS_IN" :
+#            "/home/thetis/Code/ocaml/test//home/thetis/Code/ocaml/test/_esy/default/store/b/test-6b584581/install/default/lib"
+#        ; "OCAMLTOP_INCLUDE_PATH" :
+#            "/home/thetis/Code/ocaml/test//home/thetis/Code/ocaml/test/_esy/default/store/b/test-6b584581/install/default/lib/toplevel"
+#        ; "OCAML_COLOR" : "always"
+#        ; "OPAMCOLOR" : "always"
+#        }
+#  ; findlib_path =
+#      [ External
+#          "/home/thetis/.esy/3__________________________________________________________________/i/opam__s__dune-opam__c__3.0.3-17e61cea/lib"
+#      ; External
+#          "/home/thetis/.esy/3__________________________________________________________________/i/ocaml-eb9a1085/lib"
+#      ; External
+#          "/home/thetis/.esy/3__________________________________________________________________/i/esy_ocaml__s__substs-0.0.1-ed6217b4/lib"
+#      ; External
+#          "/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base_threads-opam__c__base-f93e1d7d/lib"
+#      ; External
+#          "/home/thetis/.esy/3__________________________________________________________________/i/opam__s__base_unix-opam__c__base-dc4b97fb/lib"
+#      ; External
+#          "/home/thetis/.esy/3__________________________________________________________________/i/ocaml-eb9a1085/lib"
+#      ]
+#  ; arch_sixtyfour = true
+#  ; natdynlink_supported = true
+#  ; supports_shared_libraries = true
+#  ; ocaml_config =
+#      { version = "5.0.0+dev0-2021-11-05"
+#      ; standard_library_default =
+#          "/home/thetis/.esy/3__________________________________________________________________/i/ocaml-eb9a1085/lib/ocaml"
+#      ; standard_library =
+#          "/home/thetis/.esy/3__________________________________________________________________/i/ocaml-eb9a1085/lib/ocaml"
+#      ; standard_runtime = "the_standard_runtime_variable_was_deleted"
+#      ; ccomp_type = "cc"
+#      ; c_compiler = "gcc"
+#      ; ocamlc_cflags =
+#          [ "-O2"; "-fno-strict-aliasing"; "-fwrapv"; "-pthread"; "-fPIC" ]
+#      ; ocamlc_cppflags = [ "-D_FILE_OFFSET_BITS=64" ]
+#      ; ocamlopt_cflags =
+#          [ "-O2"; "-fno-strict-aliasing"; "-fwrapv"; "-pthread"; "-fPIC" ]
+#      ; ocamlopt_cppflags = [ "-D_FILE_OFFSET_BITS=64" ]
+#      ; bytecomp_c_compiler =
+#          [ "gcc"
+#          ; "-O2"
+#          ; "-fno-strict-aliasing"
+#          ; "-fwrapv"
+#          ; "-pthread"
+#          ; "-fPIC"
+#          ; "-D_FILE_OFFSET_BITS=64"
+#          ]
+#      ; bytecomp_c_libraries = [ "-lm"; "-lpthread" ]
+#      ; native_c_compiler =
+#          [ "gcc"
+#          ; "-O2"
+#          ; "-fno-strict-aliasing"
+#          ; "-fwrapv"
+#          ; "-pthread"
+#          ; "-fPIC"
+#          ; "-D_FILE_OFFSET_BITS=64"
+#          ]
+#      ; native_c_libraries = [ "-lm"; "-lpthread" ]
+#      ; native_pack_linker = [ "ld"; "-r"; "-o" ]
+#      ; cc_profile = []
+#      ; architecture = "amd64"
+#      ; model = "default"
+#      ; int_size = 63
+#      ; word_size = 64
+#      ; system = "linux"
+#      ; asm = [ "as" ]
+#      ; asm_cfi_supported = true
+#      ; with_frame_pointers = false
+#      ; ext_exe = ""
+#      ; ext_obj = ".o"
+#      ; ext_asm = ".s"
+#      ; ext_lib = ".a"
+#      ; ext_dll = ".so"
+#      ; os_type = "Unix"
+#      ; default_executable_name = "a.out"
+#      ; systhread_supported = true
+#      ; host = "x86_64-pc-linux-gnu"
+#      ; target = "x86_64-pc-linux-gnu"
+#      ; profiling = false
+#      ; flambda = false
+#      ; spacetime = false
+#      ; safe_string = true
+#      ; exec_magic_number = "Caml1999X031"
+#      ; cmi_magic_number = "Caml1999I031"
+#      ; cmo_magic_number = "Caml1999O031"
+#      ; cma_magic_number = "Caml1999A031"
+#      ; cmx_magic_number = "Caml1999Y031"
+#      ; cmxa_magic_number = "Caml1999Z031"
+#      ; ast_impl_magic_number = "Caml1999M031"
+#      ; ast_intf_magic_number = "Caml1999N031"
+#      ; cmxs_magic_number = "Caml1999D031"
+#      ; cmt_magic_number = "Caml1999T031"
+#      ; natdynlink_supported = true
+#      ; supports_shared_libraries = true
+#      ; windows_unicode = false
+#      }
+#  }
+$ (cd /home/thetis/Code/ocaml/test/_esy/default/store/b/test-6b584581/default && /home/thetis/.esy/3__________________________________________________________________/i/ocaml-eb9a1085/bin/ocamlc.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -bin-annot -I src/.run.eobjs/byte -no-alias-deps -opaque -o src/.run.eobjs/byte/dune__exe__Run.cmo -c -impl src/run.ml)
+$ (cd /home/thetis/Code/ocaml/test/_esy/default/store/b/test-6b584581/default && /home/thetis/.esy/3__________________________________________________________________/i/ocaml-eb9a1085/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -I src/.run.eobjs/byte -I src/.run.eobjs/native -intf-suffix .ml -no-alias-deps -opaque -o src/.run.eobjs/native/dune__exe__Run.cmx -c -impl src/run.ml)
+$ (cd /home/thetis/Code/ocaml/test/_esy/default/store/b/test-6b584581/default && /home/thetis/.esy/3__________________________________________________________________/i/ocaml-eb9a1085/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -o src/run.exe src/.run.eobjs/native/dune__exe__Run.cmx)

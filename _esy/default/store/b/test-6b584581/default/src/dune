@@ -1,3 +1,3 @@
 (executable
  (name run )
- (libraries core_unix ))
+ (libraries ))
