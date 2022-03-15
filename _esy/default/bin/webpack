@@ -1,3 +1,0 @@
-#!/bin/sh
-  exec node "/home/thetis/.esy/source/i/webpack__5.70.0__ad6386cf/bin/webpack.js" "$@"
-              
